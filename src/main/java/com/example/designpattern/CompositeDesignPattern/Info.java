@@ -22,8 +22,8 @@ public class Info {
     // that no node will be there (its like File inside a Folder).
     // 3. Third we will have "Composite" (one of the Other Child) and it contains
     // itself means (here its FileSystem). Why it contain itself because we don't know
-    // the current node is the Leaf Node (if it is not then when must have another
-    // node) and to have Node inside Node we must contain itself to support this. 
+    // the current node is the Leaf Node (if it is not then it must have another
+    // node) or not and to have Node inside Node we must contain itself to support this. 
     
 
     // For example -

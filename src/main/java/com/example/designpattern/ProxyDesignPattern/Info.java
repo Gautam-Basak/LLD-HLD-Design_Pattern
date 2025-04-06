@@ -2,7 +2,7 @@ package com.example.designpattern.ProxyDesignPattern;
 
 public class Info {
 
-    // It is a Behavioral Design Patern
+    // It is a Structural Design Patern
 
     // The Proxy Design Pattern is a design pattern in which the client
     // and the actual object are connected by a proxy object. The client

@@ -7,7 +7,7 @@ import com.example.designpattern.StateDesignPattern.VendingMachineExample.Item;
 import com.example.designpattern.StateDesignPattern.VendingMachineExample.VendingContext.VendingMachine;
 import com.example.designpattern.StateDesignPattern.VendingMachineExample.VendingState.State.State;
 
-// We we only implement for behavior which are related to idel state. Rest we will
+// We we only implement those behavior which are related to idel state. Rest we will
 // give default implementation or will throw error.
 // So in Idel State - "clickOnInsertCoinButton" works.
 public class IdleState implements State {
