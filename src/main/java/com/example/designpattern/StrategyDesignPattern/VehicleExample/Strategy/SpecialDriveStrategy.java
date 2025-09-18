@@ -1,4 +1,4 @@
-package com.example.designpattern.StrategyDesignPattern.Strategy;
+package com.example.designpattern.StrategyDesignPattern.VehicleExample.Strategy;
 
 // Group of classes which have this behaviour will use these strategy
 // What we did here is that, all the concrete implementation having Special Drive

@@ -13,7 +13,9 @@ public class MainClass {
         comedyMovieDirectory.add(hulchul);
         movieDirectory.add(comedyMovieDirectory);
 
-        movieDirectory.ls();
+        border.ls(); // Single file you created and access it.
+        comedyMovieDirectory.ls(); // One directory you created and one file inside it.
+        movieDirectory.ls(); // Multiple directory and file you have created under it.
 
     }
 }

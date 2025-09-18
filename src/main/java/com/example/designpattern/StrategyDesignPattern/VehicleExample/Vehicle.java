@@ -1,6 +1,6 @@
-package com.example.designpattern.StrategyDesignPattern;
+package com.example.designpattern.StrategyDesignPattern.VehicleExample;
 
-import com.example.designpattern.StrategyDesignPattern.Strategy.DriveStrategy;
+import com.example.designpattern.StrategyDesignPattern.VehicleExample.Strategy.DriveStrategy;
 
 public class Vehicle {
     

@@ -1,4 +1,4 @@
-package com.example.designpattern.BuilderDesignPattern;
+package com.example.designpattern.BuilderDesignPattern.StudentBuilderPatternExample;
 
 public class Client {
 
